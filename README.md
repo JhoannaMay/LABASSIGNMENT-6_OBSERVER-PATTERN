@@ -15,7 +15,7 @@ Represents users or entities subscribed to the news service. Subscribers receive
 
 # Requirements:
 
-# Subscription Management:
+##Subscription Management:
 - Users should be able to subscribe to the news service.
 - Subscribers should be notified promptly when new news is published.
 - Dynamic Subscription Updates:
