@@ -37,5 +37,7 @@ Ensure that the implementation follows object-oriented design principles and pro
 ## In your solution you must provide the following in your Github link account:
 Problem statement (description of the problem. Just copy what is stated here.
 UML Class Diagram
+![LAB ASSIGNMENT 6 OBSERVER PATTERN](https://github.com/user-attachments/assets/1db8f3f8-a2bf-4862-8c8d-2c30f347f583)
+
 Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
